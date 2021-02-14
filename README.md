@@ -12,11 +12,10 @@ My name is Greg Sieranski and I'm a software developer. I'm currently working @C
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=2bbc8a)
 
